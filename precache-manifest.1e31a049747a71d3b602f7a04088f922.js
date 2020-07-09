@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf27c0cd80886ebf1daba909f70b6e48",
+    "revision": "c44c886d72842d09aea76b2ab98b9033",
     "url": "/Garden/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garden/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "451dc6587f4ad3ca042d",
-    "url": "/Garden/static/css/main.c5512a26.chunk.css"
+    "revision": "743e5173a6a4c21f8681",
+    "url": "/Garden/static/css/main.d416b8a9.chunk.css"
   },
   {
     "revision": "9e555ea52ce358f7a9ee",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garden/static/js/2.604c8a79.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "451dc6587f4ad3ca042d",
-    "url": "/Garden/static/js/main.f33bf435.chunk.js"
+    "revision": "743e5173a6a4c21f8681",
+    "url": "/Garden/static/js/main.c478aad3.chunk.js"
   },
   {
     "revision": "90dcc7f783a92e110bf9",
