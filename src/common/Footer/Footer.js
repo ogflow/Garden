@@ -45,7 +45,7 @@ const links = [
   },
   {
       name: "Address",
-      text: "Konepajankuja 1, 00510 Helsinki",
+      text: "Konepajankuja 1, Helsinki",
       url: "https://maps.google.com/?q=Konepajankuja 1, 00510 Helsinki",
       icon: AddressSvg
   },
