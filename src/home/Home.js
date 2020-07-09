@@ -31,9 +31,9 @@ const HomeScreen = () => {
   for (var partnerItem of partnersBlockItems) {
     partnerItems.push(
       <li className="item" key={partnerItem.name}>
-        <a href={partnerItem.url} target="_blank" rel="noopener noreferrer">
+        <div className="box">
           <img src={partnerItem.img} alt={partnerItem.name} />
-        </a>
+        </div>
       </li>
     )
   }
@@ -47,7 +47,7 @@ const HomeScreen = () => {
             {partnerItems}
           </ul>
           <form className="feedback-form" method="POST" action="">
-            <p>Kerromme mielellämme lisää aikaisemmin tehdyistä asiakkuuksista ja projekteista.<br/>Laita viestiä.</p>
+            <p>Kerromme mielellämme lisää aikaisemmin tehdyistä asiakkuuksista ja projekteista.</p>
             <input name="name" type="text" placeholder="Nimi"/>
             <input name="phone" type="text" placeholder="Puhelinnumero"/>
             <input name="email" type="text" placeholder="Sähköposti"/>

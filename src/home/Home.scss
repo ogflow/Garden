@@ -28,7 +28,7 @@
                 padding-right: 0;
             }
 
-            a {
+            .box {
                 background: $aqua-haze;
                 padding: 40px;
                 width: 100%;
@@ -43,14 +43,6 @@
                     width: 100%;
                     height: auto;
                     opacity: 0.5;
-                    transition: $transition-normal;
-                }
-            }
-
-            &:hover{
-                img {
-                    transform: scale(1.1);
-                    opacity: 1;
                 }
             }
         }
@@ -175,7 +167,7 @@
             .item {
                 height: 160px;
 
-                a {
+                .box {
                     img {
                         max-width: 160px;
                         max-height: 64px;
