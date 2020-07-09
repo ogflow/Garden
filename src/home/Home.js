@@ -47,7 +47,7 @@ const HomeScreen = () => {
             {partnerItems}
           </ul>
           <form className="feedback-form" method="POST" action="">
-            <p>Kerromme mielellämme lisää aikaisemmin tehdyistä asiakkuuksista ja projekteista. Laita viestiä.</p>
+            <p>Kerromme mielellämme lisää aikaisemmin tehdyistä asiakkuuksista ja projekteista.<br/>Laita viestiä.</p>
             <input name="name" type="text" placeholder="Nimi"/>
             <input name="phone" type="text" placeholder="Puhelinnumero"/>
             <input name="email" type="text" placeholder="Sähköposti"/>

@@ -18,7 +18,7 @@ html {
   }
 
   @media (max-width: $breakpoint-xs) {
-    font-size: 15px;
+    font-size: 17px;
   }
 }
 
@@ -40,4 +40,8 @@ a {
 
 h1 {
   font-family: serif;
+}
+
+input, textarea {
+  letter-spacing: 1.2px;
 }
