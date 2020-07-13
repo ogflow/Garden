@@ -96,6 +96,7 @@
             border: 0;
             background: $white-linen;
             cursor: pointer;
+            transition: 0.1s ease-in-out;
 
             svg {
                 width: 30px;
@@ -120,6 +121,35 @@
             border-style: solid;
             border-width: 50px 50px 0 0;
             border-color: $white-linen transparent transparent transparent;
+        }
+
+        &.loading {
+            input, textarea {
+                opacity: 0.8;
+                pointer-events: none;
+            }
+
+            button {
+                pointer-events: none;
+                background: $black;
+                color: white;
+            }
+        }
+
+        &.success {
+            button {
+                pointer-events: none;
+                background: $black;
+                color: white;
+            }
+        }
+
+        &.failed {
+            button {
+                pointer-events: none;
+                background: $red;
+                color: white;
+            }
         }
     }
 
