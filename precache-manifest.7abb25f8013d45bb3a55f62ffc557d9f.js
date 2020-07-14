@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec4fbec88238a1f6672ed3cdd7758f1e",
+    "revision": "2c90beeda8124567b7b4301aa3b03dc9",
     "url": "/Garden/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garden/static/css/2.764ccc25.chunk.css"
   },
   {
-    "revision": "630b73af86f1e702675f",
-    "url": "/Garden/static/css/main.a1160e31.chunk.css"
+    "revision": "9af60570b2ca96a807bf",
+    "url": "/Garden/static/css/main.7c0520cf.chunk.css"
   },
   {
     "revision": "3b21f3e71b2f122a5ad6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Garden/static/js/2.33e987cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "630b73af86f1e702675f",
-    "url": "/Garden/static/js/main.830e8044.chunk.js"
+    "revision": "9af60570b2ca96a807bf",
+    "url": "/Garden/static/js/main.73f57673.chunk.js"
   },
   {
     "revision": "90dcc7f783a92e110bf9",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e962152456739548c697d239f3aaec19",
     "url": "/Garden/static/media/email.e9621524.svg"
-  },
-  {
-    "revision": "dcbf0cc0a9d267e135787f7fc9b4c6dc",
-    "url": "/Garden/static/media/logotype.dcbf0cc0.svg"
   },
   {
     "revision": "127452fc98474d40e2f87879c73014a2",

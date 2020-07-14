@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/Garden/static/css/main.a1160e31.chunk.css",
-    "main.js": "/Garden/static/js/main.830e8044.chunk.js",
-    "main.js.map": "/Garden/static/js/main.830e8044.chunk.js.map",
+    "main.css": "/Garden/static/css/main.7c0520cf.chunk.css",
+    "main.js": "/Garden/static/js/main.73f57673.chunk.js",
+    "main.js.map": "/Garden/static/js/main.73f57673.chunk.js.map",
     "runtime-main.js": "/Garden/static/js/runtime-main.25a2e6de.js",
     "runtime-main.js.map": "/Garden/static/js/runtime-main.25a2e6de.js.map",
     "static/css/2.764ccc25.chunk.css": "/Garden/static/css/2.764ccc25.chunk.css",
     "static/js/2.33e987cc.chunk.js": "/Garden/static/js/2.33e987cc.chunk.js",
     "static/js/2.33e987cc.chunk.js.map": "/Garden/static/js/2.33e987cc.chunk.js.map",
     "index.html": "/Garden/index.html",
-    "precache-manifest.e8408a4229bf309d05195a7d14adceb8.js": "/Garden/precache-manifest.e8408a4229bf309d05195a7d14adceb8.js",
+    "precache-manifest.7abb25f8013d45bb3a55f62ffc557d9f.js": "/Garden/precache-manifest.7abb25f8013d45bb3a55f62ffc557d9f.js",
     "service-worker.js": "/Garden/service-worker.js",
     "static/css/2.764ccc25.chunk.css.map": "/Garden/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.a1160e31.chunk.css.map": "/Garden/static/css/main.a1160e31.chunk.css.map",
+    "static/css/main.7c0520cf.chunk.css.map": "/Garden/static/css/main.7c0520cf.chunk.css.map",
     "static/js/2.33e987cc.chunk.js.LICENSE.txt": "/Garden/static/js/2.33e987cc.chunk.js.LICENSE.txt",
     "static/media/abbvie.svg": "/Garden/static/media/abbvie.758e53af.svg",
     "static/media/address.98a2cc32.svg": "/Garden/static/media/address.98a2cc32.svg",
     "static/media/astrazeneca.png": "/Garden/static/media/astrazeneca.eb0e0a04.png",
     "static/media/boehringer.svg": "/Garden/static/media/boehringer.fcd9b769.svg",
     "static/media/email.e9621524.svg": "/Garden/static/media/email.e9621524.svg",
-    "static/media/logotype.dcbf0cc0.svg": "/Garden/static/media/logotype.dcbf0cc0.svg",
     "static/media/phizer.svg": "/Garden/static/media/phizer.127452fc.svg",
     "static/media/phone.d9f490fa.svg": "/Garden/static/media/phone.d9f490fa.svg",
     "static/media/send.054e4334.svg": "/Garden/static/media/send.054e4334.svg"
@@ -28,7 +27,7 @@
     "static/js/runtime-main.25a2e6de.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.33e987cc.chunk.js",
-    "static/css/main.a1160e31.chunk.css",
-    "static/js/main.830e8044.chunk.js"
+    "static/css/main.7c0520cf.chunk.css",
+    "static/js/main.73f57673.chunk.js"
   ]
 }

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Lyyra";
+  font-style: bold;
+  font-weight: 500;
+  src:
+      url("LyyraExpanded-Bold.eot"),
+      url("LyyraExpanded-Bold.woff2") format("woff2"),
+      url("LyyraExpanded-Bold.woff") format("woff");
+}
