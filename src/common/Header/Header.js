@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.scss';
 
-import { ReactComponent as Logotype } from '../../assets/images/logotype.svg';
 import { ReactComponent as PhoneSvg } from '../../assets/icons/phone.svg';
 import { ReactComponent as EmailSvg } from '../../assets/icons/email.svg';
 import { ReactComponent as AddressSvg } from '../../assets/icons/address.svg';
@@ -24,7 +23,7 @@ const Header = () => {
         <section className="header">
             <div className="logotype">
                 <span>Creative Agency</span>
-                <Logotype/>
+                <h2 className="logotype-text">Gården</h2>
             </div>
             <ul className="links">
                 {linkItems}

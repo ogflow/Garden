@@ -1,7 +1,7 @@
 @import '../../styles/variables.scss';
 
 .header {
-    padding: 60px 30px;
+    padding: 60px 30px 40px 30px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -9,11 +9,12 @@
     .logotype {
         display: flex;
         flex-direction: column;
+        pointer-events: none;
 
-        svg {
-            margin-top: 10px;
-            width: 520px;
-            height: 90px;
+        .logotype-text {
+            font-family: 'Lyyra', sans-serif;
+            font-size: 103px;
+            margin: 0;
         }
     }
 
@@ -57,18 +58,16 @@
 
     @media (max-width: $breakpoint-xl) {
         .logotype {
-            svg {
-                width: 360px;
-                height: 64px;
+            .logotype-text {
+                font-size: 71px;
             }
         }
     }
 
     @media (max-width: $breakpoint-md) {
         .logotype {
-            svg {
-                width: 240px;
-                height: 42px;
+            .logotype-text {
+                font-size: 47px;
             }
         }
     }
